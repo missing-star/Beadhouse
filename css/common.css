@@ -1,6 +1,6 @@
 *{
     color: #333;
-    font-family: "Microsoft YaHei UI Light";
+    font-family: "Microsoft YaHei UI";
 }
 header.mui-bar{
     background: rgb(79,116,59);
@@ -28,4 +28,7 @@ header.mui-bar a,header.mui-bar h1{
 }
 .mui-input-row .mui-input-clear~.mui-icon-clear, .mui-input-row .mui-input-password~.mui-icon-eye, .mui-input-row .mui-input-speech~.mui-icon-speech{
     color: rgb(221,221,221);
+}
+p{
+    margin-bottom: 0;
 }
