@@ -1,0 +1,26 @@
+html,body,div.mui-content{
+    background: #FFFFFF;
+}
+header.mui-bar.transparent{
+    background: rgba(0,0,0,0);
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+div.main-content{
+    text-align: center;
+}
+div.image-container img,div.show-image img{
+    width: 100%;
+}
+
+div.main-content{
+    padding: 15px;
+}
+p.phone span,p.email span{
+    font-family: "华文宋体";
+    letter-spacing: 4px;
+    margin: 15px 0;
+    display: block;
+}
